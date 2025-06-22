@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Understanding JavaScript Closures",
+      "author": "Alex Mwangi",
+      "content": "Closures are powerful features of JavaScript that allow inner functions to access variables from an outer function's scope.",
+      "image": "https://picsum.photos/id/1062/300/200" 
+    },
+    {
+      "id": 2,
+      "title": "Building a Blog Manager",
+      "author": "Grace Kamau",
+      "content": "Here's how I built a dynamic blog manager using JSON Server, fetch API, and pure JavaScript.",
+      "image": "https://picsum.photos/id/180/300/200"  
+    },
+    {
+      "id": 3,
+      "title": "Intro to HTML for Developers",
+      "author": "Brian Otieno",
+      "content": "HTML forms the skeleton of any website. Understanding elements and structure is key.",
+      "image": "https://picsum.photos/id/1/300/200"     
+    },
+    {
+      "id": 4,
+      "title": "How CSS Makes Your Pages Beautiful",
+      "author": "Fatuma Njeri",
+      "content": "CSS is what turns bland HTML into beautiful interfaces. Learn how to style smart.",
+      "image": "https://picsum.photos/id/1011/300/200"  
+    },
+    {
+      "id": 5,
+      "title": "Debugging JavaScript Like a Pro",
+      "author": "Daniel Kiplagat",
+      "content": "Console logs are your friends. Learn to trace bugs and understand stack traces.",
+      "image": "https://picsum.photos/id/1025/300/200" 
+    },
+    {
+      "title": "w",
+      "author": "cdcd",
+      "content": "cxc",
+      "image": "https://picsum.photos/id/1020/300/200",
+      "id": 6
+    }
+  ]
+}
